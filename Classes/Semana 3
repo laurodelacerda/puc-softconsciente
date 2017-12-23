@@ -1,0 +1,11 @@
+--------------- Terceira Semana --------------- 
+
+Nessa semana vimos a apresentação da Ana Moura, que mostrou sua estratégia para recuperar partes de um software que tenham comportamento de consciência e modela-los orientados à meta, utilizando a linguagem i*.  Para entender melhor a linguagem recomenda-se a leitura da dissertação do Herbet Sousa, páginas 19 a 28. Outro material que pode ser útil é um tutorial sobre engenharia de requisitos intencional apresentado no SBES.
+
+Dessa apresentação surgiram algumas discussões, sobre como recuperar as informações do código, e da importância de registra-las através de um modelo intencional.
+
+Na segunda parte da aula, procurei explicar o processo utilizado pela primeira turma desse tópico de pesquisa e os resultados que foram alcançados.   A ênfase do trabalho é popular o catálogo de consciência, que toma por base a ontologia criada por Herbet Sousa em sua tese de doutorado, com base na representação NFR.  O exemplo que falamos foi sobre um trabalho que propõe o uso de consciência a nível de requisitos.
+
+Deixei como tema da próxima aula, que vocês conjuntamente discutam esse trabalho ("Explorando o Conceito de Software Consciente: Um Estudo Ancorado em Revisão Colaborativa",) entre si. 
+
+Na aula falei sobre padrões de RNF. Segundo Supakkul et. al. (veja slides também) são quatro, os tipos de padrões: Objectives, Problems, Alternatives and Selection Patterns, aos quais adicionamos com Serrano  o padrão Question.  O Herbet utilizou o padrão Objective e o padrão Question.  Em particular chamamos atenção para o padrão Alternatives e Selection que são base para avaliar escolhas e impactos.

@@ -1,0 +1,12 @@
+--------------- Introdução ---------------
+
+Nessa primeira aula falamos da evolução da disciplina, que encontra-se na sua terceira versão.  As edições anteriores encontram-se nesse mesmo espaço e podem ser acessadas por postagem.
+
+Resumindo, falamos da extensão do catálogo criado pelo Herbet Souza em sua tese de doutorado que foi feita em 2015 e do exercício em i* que fizemos para modelar a consciência do aplicativo RioBus e especificar sua evolução. Vejam a postagem anterior.
+
+Falamos sobre linguagens de representação, seus níveis de detalhamento/abstração bem como sua perspectiva.  Listamos perspectivas tanto para linguagens executáveis como para linguagens não executáveis.  Mostramos que as perspectivas de linguagens não executáveis limitam sua capacidade de representação dando ênfase a características ligadas à perspectiva adotada. 
+
+Em particular falamos sobre a linguagem do NFR Framework, definida por Chung et al. no livro Non-Functional Requirements in Software Engineering. Usamos essa linguagem para definir padrões de desenho aplicados a requisitos não funcionais, que passam a ser a base para criação de catálogos de consciência.
+
+Para a próxima aula, ficou a leitura dos dois primeiros capítulos da tese do Herbet Souza.
+
